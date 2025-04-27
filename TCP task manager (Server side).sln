@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCP task manager (Server side)", "TCP task manager (Server side)\TCP task manager (Server side).csproj", "{EAB5FBDA-64C3-4915-9E11-D43089575282}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCP task manager (Client side)", "TCP task manager (Client side)\TCP task manager (Client side).csproj", "{7CE17BD0-09FF-4261-8A17-CC900D9EBD1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAB5FBDA-64C3-4915-9E11-D43089575282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAB5FBDA-64C3-4915-9E11-D43089575282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAB5FBDA-64C3-4915-9E11-D43089575282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAB5FBDA-64C3-4915-9E11-D43089575282}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CE17BD0-09FF-4261-8A17-CC900D9EBD1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CE17BD0-09FF-4261-8A17-CC900D9EBD1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CE17BD0-09FF-4261-8A17-CC900D9EBD1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CE17BD0-09FF-4261-8A17-CC900D9EBD1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
